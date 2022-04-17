@@ -1,0 +1,137 @@
+char      <  CHAR ,   _   >
+function  <  IDN  ,function>
+(         <   (   ,   _   >
+)         <   )   ,   _   >
+{         <   {   ,   _   >
+while     < WHILE ,   _   >
+(         <   (   ,   _   >
+val       <  IDN  ,  val  >
+<         <   <   ,   _   >
+10        <DECIMAL,   10  >
+)         <   )   ,   _   >
+{         <   {   ,   _   >
+val       <  IDN  ,  val  >
+++        <   ++  ,   _   >
+;         <   ;   ,   _   >
+}         <   }   ,   _   >
+}         <   }   ,   _   >
+int       <  INT  ,   _   >
+main      <  IDN  ,  main >
+(         <   (   ,   _   >
+)         <   )   ,   _   >
+{         <   {   ,   _   >
+struct    < STRUCT,   _   >
+Stru      <  IDN  ,  Stru >
+{         <   {   ,   _   >
+int       <  INT  ,   _   >
+token     <  IDN  , token >
+;         <   ;   ,   _   >
+int       <  INT  ,   _   >
+Bvalue    <  IDN  , Bvalue>
+;         <   ;   ,   _   >
+}         <   }   ,   _   >
+;         <   ;   ,   _   >
+int       <  INT  ,   _   >
+a         <  IDN  ,   a   >
+;         <   ;   ,   _   >
+float     < FLOAT ,   _   >
+_b        <  IDN  ,   _b  >
+;         <   ;   ,   _   >
+int       <  INT  ,   _   >
+fad_213   <  IDN  ,fad_213>
+;         <   ;   ,   _   >
+int       <  INT  ,   _   >
+Arr       <  IDN  ,  Arr  >
+[         <   [   ,   _   >
+5         <DECIMAL,   5   >
+]         <   ]   ,   _   >
+;         <   ;   ,   _   >
+float     < FLOAT ,   _   >
+e         <  IDN  ,   e   >
+;         <   ;   ,   _   >
+c         <  IDN  ,   c   >
+=         <   =   ,   _   >
+1e-8      < FLOAT ,  1e-8 >
+;         <   ;   ,   _   >
+e         <  IDN  ,   e   >
+=         <   =   ,   _   >
+f         <  IDN  ,   f   >
+=         <   =   ,   _   >
+char      <  CHAR ,   _   >
+*         <   *   ,   _   >
+charArray <  IDN  ,charArray>
+=         <   =   ,   _   >
+Hello World!< STRING,Hello World!>
+;         <   ;   ,   _   >
+char      <  CHAR ,   _   >
+anotherArray<  IDN  ,anotherArray>
+[         <   [   ,   _   >
+]         <   ]   ,   _   >
+=         <   =   ,   _   >
+Hello World!;< STRING,Hello World!;>
+if        <   IF  ,   _   >
+(         <   (   ,   _   >
+c         <  IDN  ,   c   >
+>         <   >   ,   _   >
+0         < NUMBER,   0   >
+)         <   )   ,   _   >
+{         <   {   ,   _   >
+a         <  IDN  ,   a   >
+=         <   =   ,   _   >
+023       < OCTAL ,  023  >
+;         <   ;   ,   _   >
+d         <  IDN  ,   d   >
+=         <   =   ,   _   >
+0xa2      <HEXADECIMAL,  0xa2 >
+;         <   ;   ,   _   >
+}         <   }   ,   _   >
+else      <  ELSE ,   _   >
+{         <   {   ,   _   >
+b         <  IDN  ,   b   >
+=         <   =   ,   _   >
+1.11      < FLOAT ,  1.11 >
+*         <   *   ,   _   >
+8.9       < FLOAT ,  8.9  >
+;         <   ;   ,   _   >
+}         <   }   ,   _   >
+while     < WHILE ,   _   >
+(         <   (   ,   _   >
+1         <DECIMAL,   1   >
+)         <   )   ,   _   >
+{         <   {   ,   _   >
+b         <  IDN  ,   b   >
+=         <   =   ,   _   >
+10.44     < FLOAT , 10.44 >
+;         <   ;   ,   _   >
+e         <  IDN  ,   e   >
+=         <   =   ,   _   >
+990.45    < FLOAT , 990.45>
+;         <   ;   ,   _   >
+c         <  IDN  ,   c   >
+=         <   =   ,   _   >
+90        <DECIMAL,   90  >
+;         <   ;   ,   _   >
+}         <   }   ,   _   >
+c         <  IDN  ,   c   >
+=         <   =   ,   _   >
+8         <DECIMAL,   8   >
+&         <   &   ,   _   >
+7         <DECIMAL,   7   >
+;         <   ;   ,   _   >
+Arr       <  IDN  ,  Arr  >
+[         <   [   ,   _   >
+2         <DECIMAL,   2   >
+]         <   ]   ,   _   >
+=         <   =   ,   _   >
+5         <DECIMAL,   5   >
+e         <  IDN  ,   e   >
+=         <   =   ,   _   >
+Arr       <  IDN  ,  Arr  >
+[         <   [   ,   _   >
+2         <DECIMAL,   2   >
+]         <   ]   ,   _   >
+;         <   ;   ,   _   >
+function  <  IDN  ,function>
+(         <   (   ,   _   >
+)         <   )   ,   _   >
+;         <   ;   ,   _   >
